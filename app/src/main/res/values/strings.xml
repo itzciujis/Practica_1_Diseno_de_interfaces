@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Diseñar_XML_Daniel_Ciurana</string>
+    <string name="titulo_app">WhatsApp</string>
+    <string name="cd_nuevo_chat">Nuevo chat</string>
+    <string name="cd_avatar">Foto de perfil</string>
+</resources>
